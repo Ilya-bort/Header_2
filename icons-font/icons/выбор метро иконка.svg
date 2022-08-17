@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ffde00;
+        stroke: #000;
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <circle id="Эллипс_1" data-name="Эллипс 1" class="cls-1" cx="11" cy="11" r="9.719"/>
+  <path id="Forma_1" data-name="Forma 1" class="cls-2" d="M5.765,10.967a0.476,0.476,0,0,1,0-.688l0.687-.687a0.475,0.475,0,0,1,.687,0L7.188,9.641l2.7,2.9a0.237,0.237,0,0,0,.344,0l6.576-6.823h0.049a0.474,0.474,0,0,1,.687,0L18.231,6.4a0.475,0.475,0,0,1,0,.687h0l-7.852,8.149a0.473,0.473,0,0,1-.687,0L5.863,11.113Z"/>
+</svg>
